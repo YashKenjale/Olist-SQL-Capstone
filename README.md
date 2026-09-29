@@ -31,7 +31,7 @@ The main relationships include:
 
 ### Entity Relationship Diagram
 
-![Olist Database ER Diagram](images/olist_er_diagram.png)
+![Olist Database ER Diagram](olist_er_diagram.png)
 
 ## Dataset
 
