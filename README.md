@@ -66,6 +66,22 @@ The main relationships include:
 - **Credit card** was the dominant payment method.
 - Credit card transactions also accounted for most installment-based payments.
 
+## Business Recommendations
+
+Based on the analysis, the following actions could be considered:
+
+- **Improve customer retention:** Since repeat customers represent a small share of the customer base but have higher average spending, targeted retention campaigns could encourage more first-time customers to purchase again.
+
+- **Monitor delivery performance:** Investigate sellers, regions, and periods with higher late-delivery rates to identify potential logistics and fulfillment issues.
+
+- **Prioritize delivery experience:** Since late orders are associated with substantially lower review scores, improving delivery reliability could help improve customer satisfaction.
+
+- **Optimize product strategy:** Use category-level sales, order volume, and average price to identify products and categories that contribute differently to sales performance.
+
+- **Consider shipping costs in product decisions:** Freight costs increase with product weight, so heavier products may require closer monitoring of shipping economics.
+
+- **Support flexible payment options:** Credit cards are the dominant payment method and account for most installment transactions, suggesting that installment options are an important part of the purchasing experience.
+
 ## Dataset
 
 The project uses the Olist Brazilian E-Commerce Public Dataset.
