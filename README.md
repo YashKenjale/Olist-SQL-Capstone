@@ -82,6 +82,15 @@ Based on the analysis, the following actions could be considered:
 
 - **Support flexible payment options:** Credit cards are the dominant payment method and account for most installment transactions, suggesting that installment options are an important part of the purchasing experience.
 
+## Project Structure
+
+```text
+Olist-SQL-Capstone/
+├── Olist_SQL_Capstone.sql
+├── olist_er_diagram.png
+└── README.md
+```
+
 ## Dataset
 
 The project uses the Olist Brazilian E-Commerce Public Dataset.
