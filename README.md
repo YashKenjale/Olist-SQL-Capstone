@@ -118,3 +118,19 @@ The raw CSV files were imported into SQL Server and transformed into a clean ana
 5. Open `Olist_SQL_Capstone.sql` in SSMS.
 6. Execute the SQL script section by section.
 7. Review the results for sales, customers, delivery, sellers, payments, and products.
+
+## Skills Demonstrated
+
+- Microsoft SQL Server / T-SQL
+- Relational Database Design
+- Data Cleaning and Validation
+- Primary and Foreign Keys
+- Joins and Aggregations
+- CTEs
+- Window Functions
+- KPI Development
+- Sales Analysis
+- Customer Analysis
+- Delivery Performance Analysis
+- Seller and Product Analysis
+- Business Insight Generation
