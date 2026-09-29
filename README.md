@@ -108,3 +108,13 @@ The dataset contains approximately 100K orders and includes information about:
 - Geolocation
 
 The raw CSV files were imported into SQL Server and transformed into a clean analytical layer while preserving the original raw tables.
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open Microsoft SQL Server Management Studio (SSMS).
+3. Create a database named `Olist_SQL_Capstone`.
+4. Import the Olist CSV files into SQL Server.
+5. Open `Olist_SQL_Capstone.sql` in SSMS.
+6. Execute the SQL script section by section.
+7. Review the results for sales, customers, delivery, sellers, payments, and products.
