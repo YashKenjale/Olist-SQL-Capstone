@@ -15,6 +15,24 @@ The analysis focuses on understanding sales performance, customer retention, del
 - T-SQL
 - GitHub
 
+## Database Design
+
+The project uses a relational database structure designed for analytical querying.
+
+The main relationships include:
+
+- Customers → Orders
+- Orders → Order Items
+- Orders → Payments
+- Orders → Reviews
+- Order Items → Products
+- Order Items → Sellers
+- Products → Category Translation
+
+### Entity Relationship Diagram
+
+![Olist Database ER Diagram](images/olist_er_diagram.png)
+
 ## Dataset
 
 The project uses the Olist Brazilian E-Commerce Public Dataset.
